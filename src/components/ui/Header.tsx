@@ -27,11 +27,11 @@ const Header = (props: any) => {
     return (
         <div>
             <ElevationScroll>
-                <AppBar position="fixed">
+                <AppBar style={{background: 'var(--green)'}} position="fixed">
                     {/* Toolbar helps with horizontal layout */}
                     <Toolbar> 
-                        Arc Dev
-
+                        CREATIVE CRUX
+                            
                         <Link to="/">Invoices</Link> |{" "}
                         <Link to="/ztest">Expenses</Link>
                         <Link to="/ztest2">Expenses</Link>
