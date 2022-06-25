@@ -23,8 +23,8 @@ function App() {
         <Route path="ztest" element={<Ztest /> } />
         <Route path="ztest2" element={<Ztest2 /> } />
       </Routes>
-      <div className="app">
-        <div className="zzz"></div>
+      <div className="app-content">
+        
         
         {/* <Test/> */}
         {
