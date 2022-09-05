@@ -10,7 +10,7 @@ const Home = () => {
             <div className="item2">
                 
                 <Link to="/ztest"><div className="zbtn">Code Stuff</div></Link>
-                <div className="zbtn">Illustration Stuff</div>
+                <div className="zbtn">Ill Stuff</div>
             </div>
 
             {/* MAIN  */}
